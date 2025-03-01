@@ -1,0 +1,37 @@
+Input C++
+6
+Rompi
+200000
+30
+Fashion
+Sutra
+Silver
+Sapi
+XXL
+ROXXYYYER
+
+----
+Input Java
+6
+Vest
+200000
+30
+Pelindung
+Logam
+Burgundy
+Sapi
+XXL
+DOCSXVIER
+
+----
+Input Python
+6
+Rompi
+200000
+30
+Fashion
+Katun
+Silver
+Sapi
+XXL
+ROYale Pro
